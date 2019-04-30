@@ -1,1 +1,2 @@
 this is user2 first line
+this is user2 second line
